@@ -36,7 +36,7 @@ If you already have an account, you can log in using these steps:
 
 ## Development
 
-The project is developed using React.js, JavaScript, HTML, and CSS. You can contribute your own changes or report issues by following these steps:
+The project is developed using React.js and CSS. You can contribute your own changes or report issues by following these steps:
 <!-- 
 1. Fork this repository (click the "Fork" button in the top right).
 2. Create a local copy on your machine: `git clone `
